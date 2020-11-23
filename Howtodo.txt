@@ -1,0 +1,130 @@
+1st Program:
+        sh <prgm name>.sh 3 4 5
+
+
+2nd program:
+        sh <prgm name>.sh <filename1> <filename2>
+
+like:   sh 2.sh file1 file2
+o.p:    Permissions are equal echo file1=-rw-r--r-- echo file2=-rw-r--r--
+
+
+3rd program:
+        sh <prgm name>.sh <linux machine user name>
+like:   sh 3.sh ricchi
+
+o/p:    login names : ricchi
+        /home/ricchi
+
+
+4th program:
+        sh <prgm name>.sh <filename>
+like:   sh 4.sh file1
+
+o/p:    file is converted in to : FILE1
+
+
+5th program:
+        sh <prgm name>.sh <filename1> <filename2>
+
+like:   sh 5.sh file1
+
+o.p:    11:11
+
+
+6th program:
+        sh <prgm name>.sh
+
+like:   sh 6.sh
+
+o.p:
+   November 2020
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7
+ 8  9 10 11 12 13 14
+15 16 17 18 19 20 21
+22 23 24 25 26 27 28
+29 30
+
+
+7th program:
+        sh <prgm name>.sh 123
+
+like:   sh 7.sh 145
+
+o.p:    sum of digits is 10
+
+
+8th program:
+        sh <prgm name>.sh
+
+like:   sh 8.sh <filename1> <filename2> <filename3>
+
+o.p:	sh 8.sh 1 2 3
+input a word
+reva
+jan
+feb
+april
+mar
+
+
+9th program:
+        sh <prgm name>.sh
+
+like:   sh 9.sh
+
+o.p:
+good night ms/mr: ricchi
+
+
+10th program:
+        sh <prgm name>.sh <file1> <file2>
+
+like:   sh 10.sh 1 2
+
+o.p:
+THE WORD FREQUENCY IS --jan--in the 2 is 0
+
+
+11th program:
+        sh <prgm name>.sh
+
+like:   sh 11.sh
+
+o.p:
+
+Enter the login name of user
+ricchi
+ricchi   tty2         2020-11-22 10:49 (tty2)
+10
+49
+07
+52
+user: ricchi is working since -3 hrs 3 minutes
+
+
+12th program:
+        sh <prgm name>.sh <file1> <file2> <file3>
+
+like:   sh 12.sh  1 2 3
+
+o.p:
+ 2
+ 3
+
+
+13th program:
+        awk <prgm name>.awk <filename>
+like:   awk 13.awk file1
+
+o/p:
+REMOVING DUPLICATE LINE
+
+1
+4
+3
+2
+6
+8
+
